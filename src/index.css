@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@100;300&family=Exo+2:wght@500;700&family=Nunito+Sans:opsz,wght@6..12,200;6..12,400;6..12,700&family=Raleway:wght@100;400;700&display=swap');
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+
+  color-scheme: light dark;
+  background-color: #222;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
